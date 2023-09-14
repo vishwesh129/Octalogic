@@ -1,9 +1,12 @@
-import React from "react";
+import React from 'react'
+import Sidebar from './Sidebar'
+import AllRoutes from './AllRoutes'
 
 export default function Home() {
   return (
-    <div>
-      <h1>Home</h1>
+    <div style={{display:"flex"}}>
+      <Sidebar />
+      <h1>Hello</h1>
     </div>
-  );
+  )
 }

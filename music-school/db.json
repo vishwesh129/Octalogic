@@ -1,0 +1,111 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Course 1",
+        "description": "This is the first course.",
+        "instructor": "Instructor 1",
+        "duration": "4 weeks",
+        "price": "$99.99"
+      },
+      {
+        "id": 2,
+        "title": "Course 2",
+        "description": "This is the second course.",
+        "instructor": "Instructor 2",
+        "duration": "6 weeks",
+        "price": "$149.99"
+      },
+      {
+        "id": 3,
+        "title": "Course 3",
+        "description": "This is the third course.",
+        "instructor": "Instructor 3",
+        "duration": "8 weeks",
+        "price": "$199.99"
+      },
+      {
+        "id": 4,
+        "title": "Course 4",
+        "description": "This is the fourth course.",
+        "instructor": "Instructor 4",
+        "duration": "5 weeks",
+        "price": "$129.99"
+      },
+      {
+        "id": 5,
+        "title": "Course 5",
+        "description": "This is the fifth course.",
+        "instructor": "Instructor 5",
+        "duration": "7 weeks",
+        "price": "$169.99"
+      },
+      {
+        "id": 6,
+        "title": "Course 6",
+        "description": "This is the sixth course.",
+        "instructor": "Instructor 6",
+        "duration": "4 weeks",
+        "price": "$99.99"
+      },
+      {
+        "id": 7,
+        "title": "Course 7",
+        "description": "This is the seventh course.",
+        "instructor": "Instructor 7",
+        "duration": "6 weeks",
+        "price": "$149.99"
+      },
+      {
+        "id": 8,
+        "title": "Course 8",
+        "description": "This is the eighth course.",
+        "instructor": "Instructor 8",
+        "duration": "8 weeks",
+        "price": "$199.99"
+      },
+      {
+        "id": 9,
+        "title": "Course 9",
+        "description": "This is the ninth course.",
+        "instructor": "Instructor 9",
+        "duration": "5 weeks",
+        "price": "$129.99"
+      },
+      {
+        "id": 10,
+        "title": "Course 10",
+        "description": "This is the tenth course.",
+        "instructor": "Instructor 10",
+        "duration": "7 weeks",
+        "price": "$169.99"
+      }
+    ],
+    "overview": [
+      {
+        "id": 1,
+        "title": "Overview 1",
+        "description": "This is the first overview."
+      },
+      {
+        "id": 2,
+        "title": "Overview 2",
+        "description": "This is the second overview."
+      },
+      {
+        "id": 3,
+        "title": "Overview 3",
+        "description": "This is the third overview."
+      },
+      {
+        "id": 4,
+        "title": "Overview 4",
+        "description": "This is the fourth overview."
+      },
+      {
+        "id": 5,
+        "title": "Overview 5",
+        "description": "This is the fifth overview."
+      }
+    ]
+  }  
